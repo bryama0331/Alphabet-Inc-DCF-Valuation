@@ -5,6 +5,12 @@ Google DCF valuation + sensitivity analysis
 
 
 This project presents a comprehensive Discounted Cash Flow (DCF) valuation of Alphabet Inc. (GOOGL). The analysis integrates Google's reported financial statement data, news about strategic AI developments, and peer benchmarking to estimate Google’s intrinsic equity value and assess sensitivity to key assumptions.
+
+
 The scope of the work includes Google's financial data (2022-2024 10-K and June 2025 10-Q), AI related news reports, and industry research (Conducted comparative analysis of leading AI-oriented technology peers (Microsoft, Amazon, Meta, Nvidia) to inform revenue/margin trajectories, R&D and capital expenditure, and operating leverage trends across the sector).
+
+
 My valuation methodology was as follows: 1) Modeled revenue and cost growth based on historical performance, management commentary, and peer benchmarks 2) Forecasted key financial statement items (COGS, R&D, SG&A, CapEx, D&A, and NWC) as percentages of revenue 3) Estimated Unlevered Free Cash Flows (UFCF) over the forecast horizon 4) Calculated the Weighted Average Cost of Capital (WACC) from market-based cost of equity and debt assumptions 5) Derived terminal value using the Gordon Growth Model 6) Discounted future UFCFs to present value to determine an implied equity value per share.
+
+
 My sensitivity analysis consisted of performing a two-factor sensitivity analysis to evaluate valuation impact under varying assumptions in the revenue/cost's base case. Both WACC and TGR were varied by ±0.5%. This produced a 5x5 grid that resulted in a base case (7.9% WACC, 3% TGR) implied PPS of $251.87 with a likely PPS range (removed extremes) of $221.78 - $295.39
